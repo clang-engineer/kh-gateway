@@ -6,7 +6,8 @@
   },
   "generator-jhipster:7.9.3": {
     "promptValues": {
-      "nativeLanguage": "en"
+      "nativeLanguage": "en",
+      "microservicePath": "/Users/zero/Desktop/_zero/study/msa-specialist-scheduler/kh-book"
     }
   }
 }

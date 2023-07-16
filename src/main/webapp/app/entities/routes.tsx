@@ -9,6 +9,7 @@ import getStore from 'app/config/store';
 
 import entitiesReducers from './reducers';
 
+import Book from './khBook/book';
 /* jhipster-needle-add-route-import - JHipster will add routes here */
 
 export default () => {
@@ -18,6 +19,7 @@ export default () => {
     <div>
       <ErrorBoundaryRoutes>
         {/* prettier-ignore */}
+        <Route path="book/*" element={<Book />} />
         {/* jhipster-needle-add-route-path - JHipster will add routes here */}
       </ErrorBoundaryRoutes>
     </div>

@@ -11,6 +11,7 @@ import entitiesReducers from './reducers';
 
 import Book from './khBook/book';
 import BookCatalog from './khBookCatalog/book-catalog';
+import Rental from './rental/rental';
 /* jhipster-needle-add-route-import - JHipster will add routes here */
 
 export default () => {
@@ -22,6 +23,7 @@ export default () => {
         {/* prettier-ignore */}
         <Route path="book/*" element={<Book />} />
         <Route path="book-catalog/*" element={<BookCatalog />} />
+        <Route path="rental/*" element={<Rental />} />
         {/* jhipster-needle-add-route-path - JHipster will add routes here */}
       </ErrorBoundaryRoutes>
     </div>

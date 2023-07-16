@@ -1,0 +1,9 @@
+{
+  "khGatewayApp": {
+    "RentalStatus": {
+      "null": "",
+      "RENT_AVAILABLE": "RENT_AVAILABLE",
+      "RENT_UNAVAILABLE": "RENT_UNAVAILABLE"
+    }
+  }
+}

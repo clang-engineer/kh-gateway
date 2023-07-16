@@ -24,7 +24,7 @@
     "enableHibernateCache": false,
     "enableSwaggerCodegen": false,
     "enableTranslation": true,
-    "entities": ["Book", "BookCatalog", "Rental"],
+    "entities": ["Book", "BookCatalog", "Rental", "RentedItem"],
     "entitySuffix": "",
     "jhiPrefix": "jhi",
     "jhipsterVersion": "7.9.3",

@@ -10,6 +10,7 @@
         "khBookBook": "Book",
         "khBookCatalogBookCatalog": "Book Catalog",
         "rentalRental": "Rental",
+        "rentalRentedItem": "Rented Item",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

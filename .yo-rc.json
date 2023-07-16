@@ -1,0 +1,58 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "authenticationType": "jwt",
+    "baseName": "khGateway",
+    "blueprints": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.16.0"
+      }
+    ],
+    "buildTool": "gradle",
+    "cacheProvider": "no",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1689481444579,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "devServerPort": 9060,
+    "dtoSuffix": "DTO",
+    "enableGradleEnterprise": false,
+    "enableHibernateCache": false,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": true,
+    "entitySuffix": "",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "7.9.3",
+    "jwtSecretKey": "ZjBhZDNkY2Y0YTMzNjRiYzI4OWEwYWFmOWIwYjNhNWE4NmNmZjQxNzk4ZGQxMDVlN2JjMzBlNmE3YmJhYmZmZmI2NTYyMDg4MzY3NDE5N2JiMTcxY2JjYTA0YWMwMDc1NjYwNWZiYTRiOWY0ZWIxZjc0MTQ4OGNjMzljMjZkNDc=",
+    "languages": ["en", "ko"],
+    "messageBroker": "kafka",
+    "microfrontend": false,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.16.0"
+      }
+    ],
+    "packageName": "com.clangengineer.gateway",
+    "pages": [],
+    "prodDatabaseType": "postgresql",
+    "reactive": true,
+    "searchEngine": false,
+    "serverPort": "8080",
+    "serverSideOptions": ["messageBroker:kafka"],
+    "serviceDiscoveryType": "eureka",
+    "skipCheckLengthOfIdentifier": false,
+    "skipClient": false,
+    "skipFakeData": false,
+    "skipUserManagement": false,
+    "testFrameworks": [],
+    "websocket": false,
+    "withAdminUi": true
+  }
+}

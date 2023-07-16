@@ -1,0 +1,32 @@
+{
+  "khGatewayApp": {
+    "khBookCatalogBookCatalog": {
+      "home": {
+        "title": "Book Catalogs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Book Catalog",
+        "createOrEditLabel": "Create or edit a Book Catalog",
+        "notFound": "No Book Catalogs found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Book Catalog {{ id }}?"
+      },
+      "detail": {
+        "title": "Book Catalog"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "author": "Author",
+      "bookId": "Book Id",
+      "rentCnt": "Rent Cnt"
+    }
+  },
+  "khBookCatalogApp": {
+    "khBookCatalogBookCatalog": {
+      "created": "A new Book Catalog is created with identifier {{ param }}",
+      "updated": "A Book Catalog is updated with identifier {{ param }}",
+      "deleted": "A Book Catalog is deleted with identifier {{ param }}"
+    }
+  }
+}

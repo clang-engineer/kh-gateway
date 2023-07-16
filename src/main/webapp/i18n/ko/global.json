@@ -8,6 +8,7 @@
       "entities": {
         "main": "Entities",
         "khBookBook": "Book",
+        "khBookCatalogBookCatalog": "Book Catalog",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
